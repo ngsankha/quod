@@ -1,0 +1,9 @@
+[package]
+name = "quod"
+version = "0.1.0"
+authors = ["Sankha Narayan Guria <sankha93@gmail.com>"]
+license = "MIT"
+
+[dependencies]
+toml = "0.1"
+nix = "*"

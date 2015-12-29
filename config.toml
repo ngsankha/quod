@@ -1,0 +1,7 @@
+[sandbox]
+cpu_time = 1
+memory = 20971520
+
+[command]
+exec = "./hello"
+args = []
